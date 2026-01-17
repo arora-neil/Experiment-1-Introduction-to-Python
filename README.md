@@ -7,15 +7,18 @@ The if...else statement in Python is a fundamental conditional statement used fo
 
 # Algorithm:
   Mini Calculator-
-  1.input two numbers a and b
-  2.add=a+b, sub=a-b, mul=a*b, div=a/b, exp= a**b
-  3. print the result.
+   1. input two numbers a and b
+   2. add=a+b, sub=a-b, mul=a*b, div=a/b, exp= a**b
+   3. print the result.
 
   Area of Circle-
-  1.import math library.
-  2.calculate area=math.pi*r*r
-  3.print result
+   1. import math library.
+   2. calculate area=math.pi*r*r
+   3. print result
 
   If else-
-  
+   1. input two numbers
+   2. using if statement check if a>b
+   3. print result
+     
  
